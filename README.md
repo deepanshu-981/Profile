@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @deepanshu-981
-- 👀 I’m interested in Competitive Programming, Problem Solving, Data Structures & Algorithms, Web Development 
-- 🌱 I’m currently learning C++, HTML, CSS, JS, SQL
+- 👋 Hi, I’m @deepanshu-981 'Deepanshu Paliwal'
+- 👀 I’m interested in Competitive Programming, Problem Solving, Data Structures & Algorithms, Web Development, Data Analysis 
+- 🌱 I’m currently learning C++, Python, HTML, CSS, JS, NodeJS, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach out me at deepanshu.4346@gmail.com 
 
